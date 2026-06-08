@@ -1,0 +1,11 @@
+E:\BulutCo\Technical Interview\Backend\src\Hrms.Domain\bin\Debug\net10.0\Hrms.Domain.deps.json
+E:\BulutCo\Technical Interview\Backend\src\Hrms.Domain\bin\Debug\net10.0\Hrms.Domain.dll
+E:\BulutCo\Technical Interview\Backend\src\Hrms.Domain\bin\Debug\net10.0\Hrms.Domain.pdb
+E:\BulutCo\Technical Interview\Backend\src\Hrms.Domain\obj\Debug\net10.0\Hrms.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\BulutCo\Technical Interview\Backend\src\Hrms.Domain\obj\Debug\net10.0\Hrms.Domain.AssemblyInfoInputs.cache
+E:\BulutCo\Technical Interview\Backend\src\Hrms.Domain\obj\Debug\net10.0\Hrms.Domain.AssemblyInfo.cs
+E:\BulutCo\Technical Interview\Backend\src\Hrms.Domain\obj\Debug\net10.0\Hrms.Domain.csproj.CoreCompileInputs.cache
+E:\BulutCo\Technical Interview\Backend\src\Hrms.Domain\obj\Debug\net10.0\Hrms.Domain.dll
+E:\BulutCo\Technical Interview\Backend\src\Hrms.Domain\obj\Debug\net10.0\refint\Hrms.Domain.dll
+E:\BulutCo\Technical Interview\Backend\src\Hrms.Domain\obj\Debug\net10.0\Hrms.Domain.pdb
+E:\BulutCo\Technical Interview\Backend\src\Hrms.Domain\obj\Debug\net10.0\ref\Hrms.Domain.dll
